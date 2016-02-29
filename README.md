@@ -18,6 +18,5 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 This program was created using QT IDE.
-You can compile it with QT creator Open Source.
 
 Works ONLY on linux.
